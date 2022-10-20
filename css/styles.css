@@ -1,0 +1,20 @@
+body {
+    background-color: #E1FFEE;
+}
+
+hr {
+    background-color: #E1FFEE;
+    border-style: none;
+    border-top: dotted /*style*/ white /*color*/ 10px /*width*/;
+    /* border-top can be replaced with border-style dotted none none none */
+    width: 75%;
+}
+
+h1 {
+    color: #0da7df;
+}
+
+h3 {
+    color: #0da7df;
+    font-style: italic;
+}
